@@ -1,0 +1,6 @@
+= engineyard Docker Image
+
+== Description
+
+This image contains the `engineyard` gem and Bash for the purposes of running `ey` commands in a CI
+pipeline such as CircleCI. It is Alpine based for size to make pulling faster.
